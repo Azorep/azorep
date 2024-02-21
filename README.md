@@ -3,7 +3,6 @@
 
 ![https://github.com/mouredev](diego-github-header.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AzorepOficial?style=social)](https://twitter.com/AzorepOficial)
 ![GitHub Followers](https://img.shields.io/github/followers/Azorep?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Azorep?style=social)
 
